@@ -45,7 +45,7 @@ and others involve the eye’s perception of shapes.
 - straight and curved strokes - n o 
 - Diagonal stroke overlap - x & dv_chu
 - See Thomas Phinney’s “How to identify a bad font” article 
-- 
+
 
 --------------------From old site-----------------------
 
