@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 7
+weight: 6
 group: Drawing Letter
 category: Know Your Basics
 title: Different Styles
