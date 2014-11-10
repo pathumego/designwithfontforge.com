@@ -13,6 +13,7 @@ title: What is a font? What is it made of?
 - Glyph
 
 - Metadata
+
 <img src="images/info_ps_names.png"/>
 
 - Tables 
