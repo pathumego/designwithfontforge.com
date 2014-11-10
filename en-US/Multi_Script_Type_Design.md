@@ -4,7 +4,7 @@ layout: bookpage
 weight: 7
 group: Drawing Letter
 category: Know Your Basics
-title: Different Styles
+title: Multi Script Type Design
 ---
 
 
