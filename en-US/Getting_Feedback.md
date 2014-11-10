@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 10
+weight: 11
 group: Drawing Letter
 category: Know Your Basics
 title: Getting Feedback
