@@ -13,7 +13,7 @@ language: en-US
 -->
 
 <ol class="rectangle-list">
-{% if p.language == language %}
+{% for p.language == language %}
 {% for weight in (1..100) %}
   {% for p in site.pages %}
     {% if p.weight > 0 %}
@@ -27,5 +27,5 @@ language: en-US
     {% endif %}
   {% endfor %}
 {% endfor %}
-{% endif %}
+{% endfor %}
 </ol>
