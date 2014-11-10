@@ -1,8 +1,8 @@
 ---
 published: true
 layout: bookpage
-weight: 10
-group: Drawing Letter
+weight: 12
+group: Developing Fonts
 category: Know Your Basics
 title: What is a font? What is it made of?
 ---
