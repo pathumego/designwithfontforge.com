@@ -24,6 +24,9 @@ title: Parts of letters
 
 ###Optical illusions
 
+--------------------From old site-----------------------
+<TODO> Simplify this?
+
 As you test the design, you will have to trust your perceptions and design somewhat practically.
 Much of type design requires that you make letters similar and that you repeat forms.
 
@@ -38,6 +41,8 @@ right to you.
 
 Some illusions involve the perceived weight of lines, some involve the perceived length of lines,
 and others involve the eye’s perception of shapes.
+
+You are fully qualified to correct for these illusions
 
 - 2 + 2 = 5: Making strokes look the same width
 - vertical and horizontal strokes H
@@ -124,6 +129,6 @@ height.
 This illusion is relevant for any glyph that has parts which are either round or pointy. These
 include O, Q, C, S, A, V, W, and so on.
 
-## You are fully qualified to correct for these illusions
+
 
 
