@@ -25,16 +25,18 @@ Type design means making mechanised letters; letters that can be used for any te
 ### What is a font? (A simple quick guideline- more in font engineering section)
 
 ####Font vs typeface
-Typeface is a collection of letters designed to work together 
-Letter = Character + Glyph
-Characters have codepoints, and sets of codepoints were called encodings. Platform encodings (eg Mac vs PC) met the Internet and that led to Unicode, a single encoding for everything.
-Glyph Names for designers (can be anything) 
-Shaping Tables
-say in a sentence or two that fonts go beyond simple, A B C, to ligatures - fi, ffi, ffl - and most of the world’s writing systems (scripts) are ‘complex’ scripts where every syllable is a ligature, eg
+
+- Typeface is a collection of letters designed to work together 
+
+- Letter = Character + Glyph: Characters have codepoints, and sets of codepoints were called encodings. Platform encodings (eg Mac vs PC) met the Internet and that led to Unicode, a single encoding for everything.
+
+- Glyph Names for designers (can be anything) 
+
+- Shaping Tables: say in a sentence or two that fonts go beyond simple, A B C, to ligatures - fi, ffi, ffl - and most of the world’s writing systems (scripts) are ‘complex’ scripts where every syllable is a ligature, eg
 क + ख = क्ख
-Rendering Tables (Hinting)
-Metadata
-say in a sentence or two that a font file contains 'metadata': name of the font family and style, vertical metrics, licensing information, etc
+
+- Rendering Tables (Hinting)
+- Metadata: say in a sentence or two that a font file contains 'metadata': name of the font family and style, vertical metrics, licensing information, etc
 
 
 The single biggest issue that makes type design different is the need for every glyph in the typeface to work with every other glyph. This often means that the design and spacing of each part of the typeface ends up being a series of careful compromises. These compromises mean that we can best think about typeface design as the creation of a wonderful collection of letters but not as a collection of wonderful letters. In other words we must think about the group and how it will perform together and prioritize this over any question of what is wonderful in a single letter.
@@ -49,5 +51,5 @@ It may seem intimidating or excessively abstract to think about the design of a 
 
 ###Why a font editor
 
-Iterative nature of type design: keep the iteration loop tight and fast
+- Iterative nature of type design: keep the iteration loop tight and fast
 [Maybe duplicate this from the font editor intro below]
