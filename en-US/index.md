@@ -3,6 +3,7 @@ published: true
 layout: homepage
 weight: 0
 title: Design With FontForge
+language: en-US
 ---
 
 <!--
@@ -12,6 +13,7 @@ title: Design With FontForge
 -->
 
 <ol class="rectangle-list">
+{% if p.language== language %}
 {% for weight in (1..100) %}
   {% for p in site.pages %}
     {% if p.weight > 0 %}
@@ -25,4 +27,5 @@ title: Design With FontForge
     {% endif %}
   {% endfor %}
 {% endfor %}
+{% endif %}
 </ol>
