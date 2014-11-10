@@ -2,17 +2,27 @@
 published: true
 layout: bookpage
 weight: 3
-category: Before You Begin
-title: Trusting Your Eyes
+group: Drawing Letter
+category: Know Your Basics
+title: Parts of letters
 ---
 
-Font design is the process of iteratively testing the individual choices that collectively add up to
-a complete design. You will be testing your font to see if the combination of decisions you have
-made:
 
-* Allows you to read the font
-* Makes the font feel right to you
-* Makes the font useful for the the jobs you want the font to be able to do.
+###Black shapes = Stroke
+- calligraphy vs writing vs constructed forms 
+- noordzji theory
+- beg/middle/end
+- magic bullet
+- Naming of parts (latin, deva, other)
+   - type anatomy diagrams
+
+###White shapes = spaces
+
+- Concept of negative space in type design
+- Counters
+- Apertures & Sidebearings
+
+###Optical illusions
 
 As you test the design, you will have to trust your perceptions and design somewhat practically.
 Much of type design requires that you make letters similar and that you repeat forms.
@@ -26,10 +36,18 @@ The reason this is true is that there are a number of natural optical illusions 
 subject to. These illusions must be accounted for by altering the shapes of letters until they look
 right to you.
 
-## Examples of illusions
-
 Some illusions involve the perceived weight of lines, some involve the perceived length of lines,
 and others involve the eye’s perception of shapes.
+
+- 2 + 2 = 5: Making strokes look the same width
+- vertical and horizontal strokes H
+- vertical and diagonal strokes n v
+- straight and curved strokes - n o 
+- Diagonal stroke overlap - x & dv_chu
+- See Thomas Phinney’s “How to identify a bad font” article 
+- 
+
+--------------------From old site-----------------------
 
 ### Horizontal vs. vertical weight
 
@@ -108,35 +126,4 @@ include O, Q, C, S, A, V, W, and so on.
 
 ## You are fully qualified to correct for these illusions
 
-Because you can see both the illusion and the effect of correcting for the illusion, you will be
-able to make these corrections for yourself. You just have to trust your impressions.
 
-## Test for fitness of purpose
-
-Just like you are able to see optical illusions and correct them, you also have the ability to tell
-if a font is working for the specific use (or uses) you may have in mind. That’s where you should
-also trust your judgment.
-
-Quite separately, it is worth noting that no font can be evaluated apart from the way it is used and
-what it is used for. This is why it is essential to begin testing from the very beginning of the
-design process, and to continue testing until you feel the project is done.
-
-What will these tests be like? The tests will be simple at first, allowing you to test the first
-design choices. As your design becomes more complete, your tests will need to keep pace and let you
-evaluate the relative success or failure of the newest choices you have made &mdash; or, even
-better, to compare two (or three, or more&hellip;) options you are considering.
-
-Sometimes you will find you have to double back and change a design choice you thought was already
-working well. This is normal. Making a font requires balancing many variables, and surprises often
-occur. The more you design fonts, the more experience you will have in making these arbitrary
-choices.
-
-When nearing the end of the process, if the font is to be used in a simple way, the tests should
-also just stay simple. However, if a font is to be used in many ways or in a wide range of printing
-or screen environments, then it should be tested across all that range of situations, which includes
-printing various samples of the font.
-
-It can save you design time to have a well defined idea of the final use you intend. However, this
-is not always possible and your ideas may evolve. The key thing is to think about and define the use
-cases as completely as you can, then to ensure that your tests keep pace with the questions you are
-asking yourself while designed the font.
