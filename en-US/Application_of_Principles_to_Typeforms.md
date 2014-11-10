@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 6
+weight: 5
 group: Drawing Letter
 category: Know Your Basics
 title: Application of principles to typeforms
