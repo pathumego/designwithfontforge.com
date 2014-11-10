@@ -1,5 +1,6 @@
 ---
 published: true
+language: en-US
 layout: bookpage
 weight: 1
 category: Before You Begin
