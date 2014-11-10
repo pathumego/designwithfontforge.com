@@ -1,7 +1,7 @@
 ---
 published: true
 layout: bookpage
-weight: 12
+weight: 90
 category: Getting To Know FontForge
 title: Drawing with Spiro
 ---
